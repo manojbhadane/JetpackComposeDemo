@@ -39,7 +39,6 @@ fun ScaffoldWithTopBarForgotPass(navController: NavHostController) {
                     color = Color.Black
                 )
             }
-
         })
 }
 

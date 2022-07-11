@@ -27,5 +27,9 @@ fun ScreenMain(){
         composable(Routes.Dashboard.route) {
             Dashboard(navController = navController)
         }
+
+        composable(Routes.Home.route) {
+            Home(navController = navController)
+        }
     }
 }
